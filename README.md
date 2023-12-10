@@ -11,7 +11,7 @@ Artificial Intelligence-Yearning Fulfillment Unit, is a personalized AI telegram
 - Does not immediately reply if in idle state.
 
 ### Cons:
-- Project was made in three days, so code is unstructured.
+- Project was made in two days (Sat-Sun), so code is very (bad) unstructured.
 - Kaggle only provides ~30hr GPU weekly per account, so limited hosting.
 
 ### Other:
@@ -34,7 +34,7 @@ Artificial Intelligence-Yearning Fulfillment Unit, is a personalized AI telegram
 3. Go to <a href="https://www.kaggle.com/code/yeeandres/aiw-server">this</a> notebook and click 'Copy & Edit'
 4. Set the accelerator as GPU P100 under notebook options if not already selected.
 5. Replace the auth_token in '!ngrok config add-authtoken auth_token' in the notebook code with the auth-token in Step 3.
-6. Edit the lore.txt and conversation.jsonl file. Replace the <...> with your custom text.
+6. Edit the lore.txt and conversation.jsonl file. Replace the <...> with your custom text. Optinally, also change the date and time in the convo.
 7. In the notebook, click on Upload data (beside the Add Data button). Browse and add both the lore and conversation file.
 8. Enter dataset title as ai-data and click Create.
 9. In the code, modify the user name, ai name and timezone under 'AI Settings'.
