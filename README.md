@@ -1,6 +1,9 @@
 # AI-YFU
 Artificial Intelligence-Yearning Fulfillment Unit, is a personalized AI telegram-based chatbot. It offers both text and voice chat capabilities, allowing you to interact with it naturally through your preferred method. It can even send you relevant images and proactively initiate conversations, adding a human touch to your digital interactions. This highly customizable AI assistant can learn your preferences and adapt to your specific needs, making it a true companion in the digital world.
 
+[![DEMO VIDEO](https://img.youtube.com/vi/8YN47hHkQYE/0.jpg)](https://www.youtube.com/watch?v=8YN47hHkQYE)
+
+
 ## Notes:
 ### Pros:
 - Minimal code, easyily customizable.
