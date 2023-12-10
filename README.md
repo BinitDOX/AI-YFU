@@ -17,7 +17,7 @@ Artificial Intelligence-Yearning Fulfillment Unit, is a personalized AI telegram
 ### Other:
 - Since gradio share is banned on kaggle (due to stable diffusion UIs) so we will use ngrok to bypass it.
 - This project will most likely not be updated but you can easily make this into a full personal AI assitant. For example:
-  1. Give full control over your phone using asseccibility API.
+  1. Give full control over your phone using android accessibility API.
   2. Make calls, send text. Refer: https://github.com/shivaya-dav/DogeRat
   3. To collect your keystrokes randomly to make it more context aware about you.
   4. Ability to send stickers.
