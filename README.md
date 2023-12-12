@@ -57,11 +57,12 @@ Artificial Intelligence-Yearning Fulfillment Unit, is a personalized AI telegram
 6. Goto Console and run:
   - pip install python-telegram-bot==13.3
   - pip install gradio-client
-  - pip install ngrok-api
-7. Finally run: (If you see a module not found error, install that module as well using pip install module-name)
+  - pip install ngrok-api</br>
+7. Goto Files -> .local/lib/python3.10/site-packages/gradio_client/utils.py and add <i>"heartbeat": Status.PROGRESS</i> at line ~137 accoring to <a href="https://github.com/gradio-app/gradio/issues/6319">this</a> 
+8. Finally run: (If you see a module not found error, install that module as well using pip install module-name)
   - python AIW-Client.py
-8. The bot is also now hosted and will keep running (until Ctrl-C), it will also automatically connect the the server.
-9. Start your bot by sending the /start command to your AI-YFU in telegram and enjoy!
+9. The bot is also now hosted and will keep running (until Ctrl-C), it will also automatically connect the the server.
+10. Start your bot by sending the /start command to your AI-YFU in telegram and enjoy!
 
 
 ## Credits:
